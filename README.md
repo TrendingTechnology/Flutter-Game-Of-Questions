@@ -23,7 +23,7 @@
 
 OS X Linux X Windows:
 
-* Precisa ter instalado o Flutter! -> 'flutter doctor -v'  (Testas a instalacao do flutter )
+* Precisa ter instalado o Flutter! -> 'flutter doctor -v'  (Testar a instalacao do flutter )
 
 ```sh
 flutter run
@@ -38,7 +38,7 @@ flutter run
 ## Meta
 
 * 0.0.2
-    * Implementar uma Api de questoes e respostas. 
+    * Implementar uma Api de questões e respostas. 
 
 ## Contribuir
 
