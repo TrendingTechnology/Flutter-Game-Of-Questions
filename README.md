@@ -5,7 +5,7 @@
 
 > Lets Go
 
-![](./imageGame1.png) { width: 350px; }
+![](./imageGame1.png)
 
 ## lições aprendidas
 
