@@ -1,7 +1,7 @@
 ﻿# Matheus Dias  - Flutter - Jogo de Perguntas 
 
 > Realizei um aplicativo simples de perguntas e respostas em flutter para aprender todos os conceitos basitos da linguagem.
-> Foi uma experiencia muito interessante e sei que ainda tenho muito com que aprender. 
+> Foi uma experiencia muito interessante, mas sei que ainda tenho muito com que aprender com essa nova tecnologia que me fascina a cada linha. 
 
 > Lets Go
 
