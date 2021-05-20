@@ -1,17 +1,49 @@
-# fistproject
+﻿# Matheus Dias  - Flutter - Jogo de Perguntas 
 
-A new Flutter project.
+> Realizei um aplicativo simples de perguntas e respostas em flutter para aprender todos os conceitos basitos da linguagem.
+> Foi uma experiencia muito interessante e sei que ainda tenho muito com que aprender. 
 
-## Getting Started
+> Lets Go
 
-This project is a starting point for a Flutter application.
+![](./imageGame.png)
 
-A few resources to get you started if this is your first Flutter project:
+## lições aprendidas
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Widgets
+* Arvore de Widgets
+* Atualização de Widgets
+* Column
+* StatelessWidget
+* Menbros Privados
+* CallBacks
+* Map
+* Listas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"Flutter Game-Questions" 
+## Instalação
+
+OS X Linux X Windows:
+
+* Precisa ter instalado o Flutter! -> 'flutter doctor -v'  (Testas a instalacao do flutter )
+
+```sh
+flutter run
+```
+.
+
+## Histórico de lançamentos
+
+* 0.0.1
+    * Realização do aplicativo simples
+
+## Meta
+
+* 0.0.2
+    * Implementar uma Api de questoes e respostas. 
+
+## Contribuir
+
+1. Faça o _fork_ do projeto (https://github.com/Matheuscara/Flutter-Game-Of-Questions)
+2. Crie uma _branch_ para sua modificação (`git checkout -b Branch`)
+3. Faça o _commit_ (`git commit -am 'Add .'`)
+4. _Push_ (`git push origin Branch`)
+5. Crie um novo _Pull Request_
